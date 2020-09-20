@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: PlayerTrigger
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 7fa208160e17d174fa5718820584d112,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: b3676a0397f552b4d91a845c24528a4a,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export textField\r\n    \r\n    instance_0:
     %UnityEngineUIText, null\r\n    value_0: %SystemString, null\r\n    format_0:
@@ -166,13 +166,13 @@ MonoBehaviour:
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|b8929c6f-0571-49ff-989b-e6fbe4357275
   graphElementData:
   - type: 5
-    uid: 1b29904b-1285-4990-adbe-16703c45b818
-    jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":130.0,"width":200.0,"height":150.0}}'
+    uid: 24409488-cc44-4222-a62b-448458237bca
+    jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":232.0,"y":27.0,"width":200.0,"height":150.0}}'
   - type: 4
-    uid: 9434697b-4ec3-4300-8e8e-46522af7d1c0
+    uid: 7df2ba82-a1d6-405c-b8a2-320d0eefd28a
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":20.0,"width":0.0,"height":0.0}}'
   viewTransform:
-    position: {x: -233.84357, y: -73.78702}
-    scale: 0.8695652
+    position: {x: -167.26337, y: -65.39794}
+    scale: 0.65751624
   version: 1.0.0
   showAssembly: 0
